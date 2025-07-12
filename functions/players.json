@@ -1,0 +1,32 @@
+{
+  "andrei23": {
+    "name": "andrei23",
+    "age": 24,
+    "score": 1250,
+    "level": 7
+  },
+  "maria99": {
+    "name": "maria99",
+    "age": 21,
+    "score": 980,
+    "level": 5
+  },
+  "dragos88": {
+    "name": "dragos88",
+    "age": 30,
+    "score": 2300,
+    "level": 10
+  },
+  "alina12": {
+    "name": "alina12",
+    "age": 22,
+    "score": 670,
+    "level": 4
+  },
+  "ionut77": {
+    "name": "ionut77",
+    "age": 28,
+    "score": 1540,
+    "level": 8
+  }
+}

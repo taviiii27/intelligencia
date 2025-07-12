@@ -1,0 +1,26 @@
+{
+  "survival": {
+    "name": "survival",
+    "description": "Endless waves of enemies",
+    "complexity": "medium",
+    "max_players": 4
+  },
+  "training": {
+    "name": "training",
+    "description": "Learn the basics",
+    "complexity": "easy",
+    "max_players": 1
+  },
+  "arena": {
+    "name": "arena",
+    "description": "PvP combat with rankings",
+    "complexity": "medium",
+    "max_players": 2
+  },
+  "speedrun": {
+    "name": "speedrun",
+    "description": "Finish the level as fast as possible",
+    "complexity": "easy",
+    "max_players": 1
+  }
+}
