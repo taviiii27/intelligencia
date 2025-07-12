@@ -26,5 +26,12 @@ g++ functions.cpp -o functions.exe -lcpr -lssl -lcrypto -lcurl
 g++ graphics.cpp -o graphics.exe -I<include_path> -L<lib_path> -lsfml-graphics -lsfml-window -lsfml-system -mwindows
 ./graphics.exe
 
+As requirements:
+- Python 3.x with Flask
+- C++17 or newer
+- SFML library
+- cpr HTTP library for C++
+- vcpkg for dependency management 
+
 
 
