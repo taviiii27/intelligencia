@@ -1,0 +1,22 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build and Run SFML",
+      "type": "shell",
+      "command": "cmd",
+      "args": [
+        "/c",
+        "g++ graphics.cpp -o graphics.exe -I\"C:/macbook doc/game/vckpg/vcpkg/installed/x64-mingw-dynamic/include\" -L\"C:/macbook doc/game/vckpg/vcpkg/installed/x64-mingw-dynamic/lib\" -lsfml-graphics -lsfml-window -lsfml-system -mwindows && graphics.exe"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      }
+    }
+  ]
+}
