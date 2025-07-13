@@ -1,4 +1,4 @@
-Intelligencia 
+
 This project serves as a game for the users, and this combines python Flask REST API backend with a C++ SFML graphical frontend and a C++ REST client. It manages players and game modes through a RESTful service and provides a simple interactive GUI.
 As components there are:
 - the REST API (rest.py)
